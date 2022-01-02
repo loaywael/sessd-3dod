@@ -68,6 +68,7 @@ aos  AP:99.52, 95.28, 92.69
 ```
 
 ### [to-do]
+- [x] reproduce results
 - [x] model inference script.
 - [x] integrate with ROS
 - [x] support custom datasets

@@ -73,5 +73,5 @@ aos  AP:99.52, 95.28, 92.69
 - [x] integrate with ROS
 - [x] support custom datasets
 - [x] support 360 degree detection
-- [x] support multi-class prediction (pedestrians, cyclists)
+- [x] support multi-class prediction (cars, pedestrians, cyclists)
 
